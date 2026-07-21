@@ -324,4 +324,4 @@ router.get("/categories/list", async (req, res) => {
   })
 })
 
-export default router
+export default router// Product catalog and inventory routes 
